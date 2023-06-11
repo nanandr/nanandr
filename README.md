@@ -1,3 +1,5 @@
+<img src="https://filemanager.nandanarafi.my.id/uploads/1686490367_20220812_063940%20(2).png" width="100%">
+
 # nanand.r <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" height="24px">
 
 ### Nandana Rafi Ardika
