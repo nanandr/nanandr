@@ -1,5 +1,3 @@
-<img src="https://filemanager.nandanarafi.my.id/uploads/1686490367_20220812_063940%20(2).png" width="100%">
-
 # nanand.r <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" height="24px">
 
 ### Nandana Rafi Ardika
@@ -11,24 +9,12 @@
 
 ### My Socials
 <p align="center">
-  <a href="https://youtube.com/@nanand.r" target="_blank">
-    <img align="center" alt="nanandr | youtube" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://instagram.com/nanand.r" target="_blank">
-    <img align="center" alt="nanandr | instagram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=rafirenan12@gmail.com" target="_blank">
-    <img align="center" alt="nanandr | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/nandana-rafi-ardika-442a29237/" target="_blank">
-    <img align="center" alt="nanandr | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  
+  <a href="https://youtube.com/@nanand.r" target="_blank"><img align="center" alt="nanandr | youtube" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/nanand.r" target="_blank"><img align="center" alt="nanandr | instagram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"/></a>&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=rafirenan12@gmail.com" target="_blank"><img align="center" alt="nanandr | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nandana-rafi-ardika-442a29237/" target="_blank"><img align="center" alt="nanandr | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"/></a>&nbsp;&nbsp;
   <a href="https://github.com/nanandr" target="_blank">
-    <img align="center" alt="nanandr | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+    <img align="center" alt="nanandr | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"/>
   </a>
   
 <p>
